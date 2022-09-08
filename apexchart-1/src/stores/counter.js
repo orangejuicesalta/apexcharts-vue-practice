@@ -28,7 +28,6 @@ export const useCounterStore = defineStore("counter", () => {
         newData.value.push(Population);
       });
       years.value.reverse();
-      console.log(years._rawValue);
       newData.value.reverse();
       loaded.value = true
     } catch (e) {
