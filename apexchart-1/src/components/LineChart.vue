@@ -56,4 +56,8 @@ let chartOptions = reactive({
   </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+  #chart {
+    width: 60vw;
+  }
+</style>
