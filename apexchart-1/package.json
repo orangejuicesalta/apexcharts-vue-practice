@@ -1,0 +1,19 @@
+{
+  "name": "apexchart-1",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "apexcharts": "^3.35.5",
+    "pinia": "^2.0.21",
+    "vue": "^3.2.38",
+    "vue3-apexcharts": "^1.4.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "vite": "^3.0.9"
+  }
+}
