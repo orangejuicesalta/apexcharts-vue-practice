@@ -1,6 +1,8 @@
 # apexchart-1
 
 This template should help get you started developing with Vue 3 in Vite.
+These are few examples of using Apexchart library with setup tag composition API Vue. Also, for state management Pinia was used and for API requests Axios was applied. 
+More examples of different types of charts from Apexchart will be added if necessary. 
 
 ## Recommended IDE Setup
 
@@ -27,3 +29,4 @@ npm run dev
 ```sh
 npm run build
 ```
+
